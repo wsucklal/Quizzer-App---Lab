@@ -1,0 +1,27 @@
+[
+    {
+        "question": "Which is NOT a real element?",
+        "choices": ["Hydrogen", "Radium", "Vibranium", "Arsenic"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which is NOT a layer of the atmosphere?",
+        "choices": ["Taposphere", "Thermosphere", "Exosphere", "Stratosphere"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which is the most abundant gas in the atmosphere?",
+        "choices": ["Hydrogen", "Oxygen", "Nitrogen", "Helium"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which element is all life on Earth based on?",
+        "choices": ["Hydrogen", "Oxygen", "Silicon", "Carbon"],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Water evaporates, condenses in the atmosphwere, and falls back to the earth as rain. What is this process called?",
+        "choices": ["Wheel of time", "Water cycle", "Water exogenesis", "Fun times"],
+        "correctAnswer": 1
+    }
+]
